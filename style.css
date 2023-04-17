@@ -1,0 +1,43 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    color: aliceblue;
+    font-size: 25px;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: 26px !important;
+}
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color: green;
+    background-color: greenyellow;
+    border: 4px dashed grey;
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 15px;
+}
+canvas{
+    border:3px solid black;
+    border-radius: 20px;
+    background-color: red;
+}
+p{
+    color: rgb(0, 0, 0);
+    margin-bottom: 0px;
+    font-size: small;
+}
+button{
+    font-size: 23px!important;
+    width: 100px;
+    letter-spacing: 4px;
+    border: 2px solid black !important;
+    color: darkgreen;
+    
+}
